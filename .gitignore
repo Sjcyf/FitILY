@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+*.tsbuildinfo
+# Локальные настройки Claude Code (запуск dev-сервера)
+.claude/
+.DS_Store
